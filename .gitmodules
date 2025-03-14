@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/joaojosesalgado123/projeto-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/joaojosesalgado123/projeto-backend.git
+[submodule "database"]
+	path = database
+	url = https://github.com/joaojosesalgado123/projeto-database.git
